@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Hackathon Website",
+    "description": "A website that helps students find and join hackathon projects.",
+    "owner": "Alice Johnson",
+    "skills_needed": ["HTML", "CSS", "JavaScript", "Web Development"],
+    "status": "open"
+  },
+  {
+    "title": "AI Chatbot",
+    "description": "A conversational AI chatbot that can answer basic questions and assist users.",
+    "owner": "Bob Smith",
+    "skills_needed": ["Python", "Machine Learning", "NLP"],
+    "status": "in progress"
+  },
+  {
+    "title": "Portfolio Generator",
+    "description": "A tool that allows users to quickly generate their own online portfolios.",
+    "owner": "Charlie Lee",
+    "skills_needed": ["JavaScript", "React", "CSS"],
+    "status": "completed"
+  }
+]
