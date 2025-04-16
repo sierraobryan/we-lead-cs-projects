@@ -27,6 +27,14 @@ During the session, you'll be making contributions by:
 
 - `db.json`: Contains an array of project details, including title, description, owner, and skills needed.
 
+## Usage 
+
+This JSON is used to power [we-lead-cs-hackathon.github.io](https://we-lead-cs-hackathon.github.io/). The website pulls data from two separate JSON files hosted on Github using My JSON Server, a fake online REST server for teams. This data is used to display participant profiles and project details on the website.
+
+- The People data is served from the [People JSON Repository](https://github.com/sierraobryan/we-lead-cs-people).
+- The Projects data is served from the [Projects JSON Repository](https://github.com/sierraobryan/we-lead-cs-projects) (this repository).
+- The [Website Repository](https://github.com/we-lead-cs-hackathon/we-lead-cs-hackathon.github.io) contains the core files for the website (HTML, CSS, JavaScript) and handles the display of the data.
+
 ---
 
 **Feel free to take on more issues after the session to keep improving the site and practicing Git!**
