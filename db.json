@@ -33,6 +33,15 @@
                 "CSS"
             ],
             "status": "completed"
+        },
+	{
+            "title": "CyberSword",
+            "description": "A advanced cyber security activity.",
+            "owner": "Logan Clifton",
+            "skills_needed": [
+                "Python"
+            ],
+            "status": "working on completing"
         }
     ]
 }
